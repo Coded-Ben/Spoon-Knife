@@ -1,84 +1,13 @@
-<<<<<<< HEAD
-.red {
-  background-color:rgb(243, 133, 147);
-=======
-<<<<<<< HEAD
-/* * {
-=======
-
-
-
-* {
->>>>>>> 8d34c39535f32f73f55fb3eae22f872c1151087f
-  margin:0px;
-  padding:0px;
->>>>>>> 8b34979450adbb2da10be2492849c3340673266f
+.Amo,.Ben {
+  font-size: 28px;
+  font-family: Helvetica,Times New Roman,sans-serif;
+  display: inline;
 }
 
-.red.first {
-  font-family: Verdana,DejaVu Sans,sans-serif;
-}
-
-<<<<<<< HEAD
-#blue{
-  color: hsl(241, 81%, 51%);
-  font-size: 36px;
-}
-
-.red.cooler {
-  font-size: 24px;
-}
-#another {
-  font-weight: bold;
-  background-color:rgb(116, 247, 116);
-}
-=======
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-} */
-
-.red { 
-  background-color: rgb(255, 137, 137);
-  font-family: verdana,DejaVu Sans,sans-serif;
-}
-
-<<<<<<< HEAD
-#blue {
-  color: hsl(240,100,30);
-  font-size: 36px;
-
-}
-
-.cooler {
-  background-color: rgb(255, 137, 137);
-  font-size: 24px;
-}
-
-#another {
-  background-color: hsl(120, 70%, 68%)  ;
-  font-size: 24px;
-=======
-div {
-  background-color: red;
+.Amo {
+  background-color: black;
   color: white;
-  font-size: 32px;
-  text-align: center;
->>>>>>> 8d34c39535f32f73f55fb3eae22f872c1151087f
-  font-weight: bold;
 }
-
-
-
-<<<<<<< HEAD
-
-
-=======
-button {
-  background-color: orange;
-  font-size: 18px;
+.Ben {
+  background-color: yellow;
 }
->>>>>>> 8d34c39535f32f73f55fb3eae22f872c1151087f
->>>>>>> 8b34979450adbb2da10be2492849c3340673266f
